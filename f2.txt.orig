@@ -1,4 +1,6 @@
 this added by F2
+<<<<<<< HEAD
 this added by hotfix
+=======
 this is a another bug
-
+>>>>>>> release
